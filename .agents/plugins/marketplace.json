@@ -1,0 +1,20 @@
+{
+  "name": "itsumori",
+  "interface": {
+    "displayName": "Itsumori"
+  },
+  "plugins": [
+    {
+      "name": "komorebi",
+      "source": {
+        "source": "local",
+        "path": "./plugins/komorebi"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
