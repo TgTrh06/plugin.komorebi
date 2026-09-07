@@ -10,6 +10,20 @@ Before introducing a card, nested surface, pill, gradient, large type, grid, mot
 
 When no clear reason exists, prefer typography, spacing, alignment, hierarchy, and content. These rules do not make Komorebi or Itsumori a visual theme for projects.
 
+## Context read
+
+For a substantial new screen or visual direction, summarize the intended character in one line before designing:
+
+> Reading this as: `<interface>` for `<audience>`, with `<quiet/balanced/bold>` expression, `<uniform/varied/editorial>` rhythm, and `<static/functional/expressive>` motion.
+
+Derive the read from the product, audience, content, existing system, and explicit brief. The dimensions are alignment tools, not presets:
+
+- **Expression** controls how strongly the design announces itself.
+- **Rhythm** controls how much composition changes across sections or regions.
+- **Motion** controls whether movement is absent, explains interaction, or carries part of the narrative.
+
+Hold the read consistently unless the content creates a deliberate change of pace. When direction is ambiguous, ask at most one question whose answer would materially change the result. Do not create this ceremony for a small correction inside an established system.
+
 ## Preference spectrum
 
 | Dimension | Default | Contextual shift |

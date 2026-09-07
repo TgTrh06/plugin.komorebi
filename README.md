@@ -9,8 +9,8 @@ Komorebi is a personal Codex plugin for reusable agent skills, deliberate delive
 Komorebi packages five first-party skills:
 
 - plan-first, single-agent delivery;
-- personal design-language guidance for UI work;
-- focused UI/UX review; and
+- personal design-language guidance with contextual expression, rhythm, motion, and content integrity;
+- focused UI/UX review backed by changed-flow evidence;
 - an optional Node.js web-app foundation; and
 - focused Node.js backend delivery in an approved project stack.
 
@@ -53,6 +53,8 @@ Describe the work normally. Codex selects a matching skill from the request cont
 - “Review this dashboard for UX problems.”
 - “Redesign this component while preserving the existing design system.”
 - “Use this website as inspiration, but analyze why it works before designing mine.”
+- “Review this mobile flow and report concrete interaction and accessibility evidence.”
+- “Rewrite this landing-page copy without inventing metrics, customers, or product claims.”
 - “Set up the approved web-app foundation for this Node.js project.”
 - “Add this API endpoint using the existing backend conventions.”
 
@@ -79,7 +81,9 @@ If Codex does not show the updated skills, start a new task after upgrading.
 
 ## Attribution
 
-All shipped skills are first-party Komorebi content. Third-party skills are not bundled; future integrations must retain their original name, author, source, license, and notices.
+All shipped skills are first-party Komorebi content. The purpose-gate and evidence-gate concepts were informed by [anti-slop](https://github.com/miqdadbadjuber/anti-slop) by Miqdad Badjuber; Komorebi applies them with original wording and a scope-proportional workflow. No anti-slop code or skill is bundled.
+
+Third-party skills are not bundled; future integrations must retain their original name, author, source, license, and notices.
 
 ## License
 

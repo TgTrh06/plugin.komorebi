@@ -1,15 +1,15 @@
 {
   "name": "komorebi",
-  "version": "1.0.0+codex.20260827102605",
-  "description": "Reusable Codex skills for deliberate delivery and contextual UI/UX decisions.",
+  "version": "1.1.0",
+  "description": "Reusable Codex skills for deliberate delivery and evidence-based, contextual UI/UX decisions.",
   "author": {
     "name": "TgTrh06"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "Komorebi",
-    "shortDescription": "Deliberate delivery and contextual UI/UX guidance.",
-    "longDescription": "Komorebi by Itsumori provides reusable agent skills for plan-first delivery, contextual UI/UX decisions, and optional Node.js web-app and backend foundations.",
+    "shortDescription": "Deliberate delivery and evidence-based UI/UX guidance.",
+    "longDescription": "Komorebi by Itsumori provides reusable agent skills for plan-first delivery, contextual UI/UX decisions, changed-flow evidence, and optional Node.js web-app and backend foundations.",
     "developerName": "Itsumori",
     "category": "Productivity",
     "capabilities": [
@@ -18,6 +18,7 @@
     "defaultPrompt": [
       "Plan a focused change before implementing it.",
       "Review this UI against the personal design language.",
+      "Review this changed flow and report concrete UI/UX evidence.",
       "Establish a Node.js web-app foundation.",
       "Implement a focused Node.js backend change using the approved project stack."
     ]

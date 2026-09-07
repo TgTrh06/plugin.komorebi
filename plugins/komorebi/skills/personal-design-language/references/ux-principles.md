@@ -8,3 +8,5 @@
 - Empty states explain the situation and the next permitted action. They may be warmer or more illustrative in onboarding, but are never childish or decorative noise.
 - Status never relies on color alone; combine meaningful text, iconography, and, when useful, tint.
 - Use real evidence, content, and metrics. Never invent social proof, statistics, or dashboard data to fill a layout.
+- Every visible navigation item has a real destination. Remove dead controls or label genuinely unavailable actions honestly instead of making them appear complete.
+- Let actual content and user questions determine sections, labels, FAQs, and calls to action. Do not complete a familiar page template with invented content.
