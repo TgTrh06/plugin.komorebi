@@ -1,6 +1,6 @@
 {
   "name": "komorebi",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Reusable Codex skills for deliberate delivery and evidence-based, contextual UI/UX decisions.",
   "author": {
     "name": "TgTrh06"
@@ -19,6 +19,7 @@
       "Plan a focused change before implementing it.",
       "Review this UI against the personal design language.",
       "Review this changed flow and report concrete UI/UX evidence.",
+      "Use Itsumori Forest Press for this editorial portfolio interface.",
       "Establish a Node.js web-app foundation.",
       "Implement a focused Node.js backend change using the approved project stack."
     ]

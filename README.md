@@ -6,10 +6,11 @@ Komorebi is a personal Codex plugin for reusable agent skills, deliberate delive
 
 ## What it is
 
-Komorebi packages five first-party skills:
+Komorebi packages six first-party skills:
 
 - plan-first, single-agent delivery;
 - personal design-language guidance with contextual expression, rhythm, motion, and content integrity;
+- the optional Itsumori Forest Press identity for editorial portfolios and personal-brand surfaces;
 - focused UI/UX review backed by changed-flow evidence;
 - an optional Node.js web-app foundation; and
 - focused Node.js backend delivery in an approved project stack.
@@ -53,6 +54,7 @@ Describe the work normally. Codex selects a matching skill from the request cont
 - “Review this dashboard for UX problems.”
 - “Redesign this component while preserving the existing design system.”
 - “Use this website as inspiration, but analyze why it works before designing mine.”
+- “Use Itsumori Forest Press for this editorial portfolio interface.”
 - “Review this mobile flow and report concrete interaction and accessibility evidence.”
 - “Rewrite this landing-page copy without inventing metrics, customers, or product claims.”
 - “Set up the approved web-app foundation for this Node.js project.”
